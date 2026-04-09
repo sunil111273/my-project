@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello from Main updated.
+=======
+Hello from New-Main.
+>>>>>>> new-main
